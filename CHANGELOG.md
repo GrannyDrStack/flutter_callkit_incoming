@@ -1,3 +1,6 @@
+## 3.0.0-grannydr.1
+* GrannyDr fork of 3.0.0: backport the null `intent.action` fix in TransparentActivity from 3.1.0 (upstream https://github.com/hiennguyen92/flutter_callkit_incoming/pull/814). Nothing else changed.
+
 ## 3.0.0
 * Using Plugin DSL for Android, thank @AAkira https://github.com/hiennguyen92/flutter_callkit_incoming/pull/743
 * Add Android native callback, thank @joshoconnor89 https://github.com/hiennguyen92/flutter_callkit_incoming/pull/736
